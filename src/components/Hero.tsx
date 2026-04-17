@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const MAILTO_HREF =
-  "mailto:screensightcreations@gmail.com?subject=Kollaborate%20demo%20request";
+  "mailto:yosef@kollaborate.ca?subject=Kollaborate%20demo%20request";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 12 },

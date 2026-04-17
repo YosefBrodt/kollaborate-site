@@ -4,7 +4,7 @@ import { useRef } from "react";
 import { useInView } from "framer-motion";
 
 const MAILTO_HREF =
-  "mailto:screensightcreations@gmail.com?subject=Kollaborate%20demo%20request";
+  "mailto:yosef@kollaborate.ca?subject=Kollaborate%20demo%20request";
 
 export function FinalCTA() {
   const ref = useRef<HTMLDivElement>(null);

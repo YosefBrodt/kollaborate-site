@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 
 const MAILTO_HREF =
-  "mailto:screensightcreations@gmail.com?subject=Kollaborate%20demo%20request";
+  "mailto:yosef@kollaborate.ca?subject=Kollaborate%20demo%20request";
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
